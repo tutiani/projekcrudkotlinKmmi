@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#055052"
+    android:orientation="vertical"
+    >
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tambah Akun"
+        android:textColor="@color/white"
+        android:fontFamily="@font/poppins_bold"
+        android:textSize="25sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginTop="300sp"
+        android:layout_marginBottom="10dp"
+        />
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/rectangle_addakun"
+        android:orientation="vertical"
+
+        android:padding="20sp">
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="18dp"
+            android:fontFamily="@font/poppins_regular"
+            android:backgroundTint="#66055052"
+            android:hint="Username"/>
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="18dp"
+            android:fontFamily="@font/poppins_regular"
+            android:backgroundTint="#66055052"
+            android:layout_marginTop="10dp"
+            android:hint="Email"/>
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="18dp"
+            android:fontFamily="@font/poppins_regular"
+            android:backgroundTint="#66055052"
+            android:hint="Password"/>
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="18dp"
+            android:fontFamily="@font/poppins_regular"
+            android:backgroundTint="#66055052"
+            android:layout_marginTop="10dp"
+            android:hint="Konfirmasi Password"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:width="150dp"
+                android:text="@string/daftar"
+                android:textSize="24sp"
+                android:textAllCaps="false"
+                android:paddingLeft="10dp"
+                android:drawableRight="@drawable/ic_daftar"
+                android:background="@drawable/butttontambah"
+                android:fontFamily="@font/poppins_bold"
+                android:textColor="#055052"
+                android:layout_gravity="right"
+                />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

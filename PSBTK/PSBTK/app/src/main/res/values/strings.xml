@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PSBTK</string>
+    <string name="pendaftaran">Pendaftaran</string>
+    <string name="daftar">Daftar</string>
+    <string name="data_pendaftar">Data Pendaftar</string>
+    <string name="tambah_data_pendaftar">Tambah Data Pendaftar</string>
+    <string name="tambah_akun_admin">Tambah Akun Admin</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+</resources>

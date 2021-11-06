@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/activity_dashboard.xml" value="0.2125" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/activity_dashboard2.xml" value="0.2125" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.1984375" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/activity_data_pendaftar.xml" value="0.2125" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/activity_edit_akun_adm.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/activity_edit_siswa.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/activity_form_pendaftar.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/activity_login.xml" value="0.2125" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/activity_login_admin.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/activity_main.xml" value="0.2125" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/activity_regist.xml" value="0.3217665615141956" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/activity_tambah_akun_adm.xml" value="0.2125" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/activity_tambahakun.xml" value="0.1033434650455927" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/custom_data.xml" value="0.2125" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/PSBTK/app/src/main/res/layout/edit_admin.xml" value="0.2125" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/drawable/backgroundrounded.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/drawable/button_red.xml" value="0.2712820512820513" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/drawable/buttton.xml" value="0.18" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/drawable/butttontambah.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/drawable/daftar.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/drawable/ic_daftar.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/drawable/rectangle_white1.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/layout/activity_data_pendaftar.xml" value="0.259375" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/layout/activity_editakun.xml" value="0.3930544593528019" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/layout/activity_main2.xml" value="0.259375" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/layout/activity_regist.xml" value="0.22" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/layout/custom_data.xml" value="0.259375" />
+        <entry key="..\:/Users/acer/Documents/AndroidStudioProject/PSBTK/app/src/main/res/layout/edit_admin.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

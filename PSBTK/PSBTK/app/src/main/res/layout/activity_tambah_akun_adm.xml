@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#055052"
+    android:orientation="vertical"
+    tools:context=".TambahAkunAdm">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tambah Akun"
+        android:textColor="@color/white"
+        android:fontFamily="@font/poppins_bold"
+        android:textSize="25sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginTop="200sp"
+        android:layout_marginBottom="10dp"
+        />
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/rectangle_addakun"
+        android:orientation="vertical"
+
+        android:padding="20sp">
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="18dp"
+            android:fontFamily="@font/poppins_regular"
+            android:backgroundTint="#66055052"
+            android:hint="Username"
+            android:id="@+id/et_newuname"/>
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="18dp"
+            android:fontFamily="@font/poppins_regular"
+            android:backgroundTint="#66055052"
+            android:hint="Password"
+            android:id="@+id/et_newpass"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:width="150dp"
+            android:text="daftar"
+            android:textSize="24sp"
+            android:textAllCaps="false"
+            android:paddingLeft="10dp"
+            android:drawableRight="@drawable/ic_daftar"
+            android:background="@drawable/butttontambah"
+            android:fontFamily="@font/poppins_bold"
+            android:textColor="#055052"
+            android:layout_gravity="right"
+            android:id="@+id/bt_tmbhakun"
+            />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</androidx.appcompat.widget.LinearLayoutCompat>
